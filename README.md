@@ -1,0 +1,2 @@
+# miningBitcoi-farari
+Mfarari@
